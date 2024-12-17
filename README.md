@@ -20,24 +20,28 @@ Principal Engineer with 9+ years of experience specializing in full-stack develo
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
-![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical)
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmc2015&layout=compact&theme=radical)](https://github.com/dmc2015)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmc2015&layout=compact&theme=tokyonight)](https://github.com/dmc2015)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true&count_private=true)
+## 🚀 Career Highlights
 
+```text
+✨ Full Stack Development     ██████████ Expert
+🛠️ API Design & Integration  ██████████ Expert
+📊 Database Architecture     ████████░░ Advanced
+🔧 System Architecture       ████████░░ Advanced
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=dark&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues&include_all_commits=true&count_private=true)
+## 🎯 Recent Focus
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=tokyonight&hide=issues,contribs,prs&include_all_commits=true&count_private=true)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&title_color=e88444&icon_color=44b2e8&text_color=718096&bg_color=00000000&hide=issues,contribs&include_all_commits=true&count_private=true)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical&border_color=e4e2e2&border_radius=10&hide=issues,contribs&include_all_commits=true&count_private=true)
-
+```markdown
+- Ruby/Rails System Architecture
+- Next.js & Typescript
+- PAAS + NoCode/LowCode Solutions + LLM/AI
+- API Performance Optimization
+- Team Leadership & Mentoring
+```
 
 ## 🎯 Featured Projects
 ### Financial Application Migration
