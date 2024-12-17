@@ -1,15 +1,11 @@
 # 👋 Hello, I'm Don McLamb
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/mclambdon)
-[![Website](https://img.shields.io/badge/Website-Visit-green.svg?style=flat-square&logo=google-chrome)](https://bst-labs.netlify.app/blog)
-
 ## 🚀 About Me
 Principal Engineer with 9+ years of experience specializing in full-stack development, security engineering, and cloud solutions. Master's in Cybersecurity, passionate about building scalable applications and secure systems. Currently running BSTXLabs, providing technical services and solutions.
 
-## 📊 GitHub Stats
-![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmc2015&layout=compact&theme=radical)](https://github.com/dmc2015)
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/mclambdon)
+[![Website](https://img.shields.io/badge/Website-Visit-green.svg?style=flat-square&logo=google-chrome)](https://bst-labs.netlify.app/blog)
 
 ## 💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
@@ -22,6 +18,26 @@ Principal Engineer with 9+ years of experience specializing in full-stack develo
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## 📊 GitHub Stats
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmc2015&layout=compact&theme=radical)](https://github.com/dmc2015)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=dark&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues&include_all_commits=true&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=tokyonight&hide=issues,contribs,prs&include_all_commits=true&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&title_color=e88444&icon_color=44b2e8&text_color=718096&bg_color=00000000&hide=issues,contribs&include_all_commits=true&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmc2015&show_icons=true&theme=radical&border_color=e4e2e2&border_radius=10&hide=issues,contribs&include_all_commits=true&count_private=true)
+
 
 ## 🎯 Featured Projects
 ### Financial Application Migration
@@ -47,8 +63,7 @@ Principal Engineer with 9+ years of experience specializing in full-stack develo
 ## 📫 How to Reach Me
 - Email: mclamb.donald@gmail.com
 - Phone: 816-914-7334
-- Location: Chicago, IL (Remote)
-- Website: [bst-labs.netlify.app/blog](https://bst-labs.netlify.app/blog)
+- Website: [bstx-labs](https://bstx-labs.vercel.app/)
 
 ## 🎓 Education & Certifications
 - MSc in Cybersecurity - University of Maryland
