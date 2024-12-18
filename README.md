@@ -7,18 +7,6 @@ Principal Engineer with 9+ years of experience specializing in full-stack develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/mclambdon)
 [![Website](https://img.shields.io/badge/Website-Visit-green.svg?style=flat-square&logo=google-chrome)](https://bsts-labs.vercel.app)
 
-## 💻 Technologies & Tools
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
 ## 💻 Technology Stack
 
 ### Languages & Frameworks
@@ -109,7 +97,19 @@ Principal Engineer with 9+ years of experience specializing in full-stack develo
 - Team Leadership & Mentoring
 ```
 
-## 🎯 Featured Projects
+## 🎯 Recent Projects
+
+### HeaderSentry
+[Details](https://bstx-labs.vercel.app/projects/header-sentry)
+- Security Analysis
+  - Check your website's security headers and understand your security posture
+- Educational Resource
+  - Learn about each security header's purpose and the risks it helps mitigate
+- Implementation Help
+  - Get code snippets and examples for proper security header implementation
+- Context-Aware
+  - Understand which headers matter for your specific use case
+  
 ### Financial Application Migration
 - Microservices architecture migration from monolithic system
 - Rails API development for mobile platform
